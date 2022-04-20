@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <object class="javax.swing.tree.DefaultMutableTreeNode">
+  <void property="userObject">
+   <string>All</string>
+  </void>
+  <void method="add">
+   <object class="javax.swing.tree.DefaultMutableTreeNode">
+    <void property="userObject">
+     <string>n1</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

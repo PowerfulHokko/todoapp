@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <object class="javax.swing.tree.DefaultMutableTreeNode">
+  <void property="userObject">
+   <string>Books</string>
+  </void>
+  <void method="add">
+   <object class="javax.swing.tree.DefaultMutableTreeNode">
+    <void property="userObject">
+     <string>Programming</string>
+    </void>
+    <void method="add">
+     <object class="javax.swing.tree.DefaultMutableTreeNode">
+      <void property="userObject">
+       <string>Java</string>
+      </void>
+      <void method="add">
+       <object class="javax.swing.tree.DefaultMutableTreeNode">
+        <void property="userObject">
+         <string>Concurrency in practice</string>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.tree.DefaultMutableTreeNode">
+        <void property="userObject">
+         <object class="be.jrutten.ideatesting.TestObject">
+          <void property="crs">
+           <array class="java.lang.String" length="4">
+            <void index="0">
+             <string>ANT</string>
+            </void>
+            <void index="1">
+             <string>ERP</string>
+            </void>
+            <void index="2">
+             <string>MVD</string>
+            </void>
+            <void index="3">
+             <string>EQL</string>
+            </void>
+           </array>
+          </void>
+          <void property="valName">
+           <string>OTIS</string>
+          </void>
+          <void property="value">
+           <int>456</int>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.tree.DefaultMutableTreeNode">
+        <void property="userObject">
+         <string>Dynamic app development</string>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="javax.swing.tree.DefaultMutableTreeNode">
+      <void property="userObject">
+       <string>Sql</string>
+      </void>
+      <void method="add">
+       <object class="javax.swing.tree.DefaultMutableTreeNode">
+        <void property="userObject">
+         <string>PostGIS</string>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="javax.swing.tree.DefaultMutableTreeNode">
+    <void property="userObject">
+     <string>Mathematics</string>
+    </void>
+    <void method="add">
+     <object class="javax.swing.tree.DefaultMutableTreeNode">
+      <void property="userObject">
+       <string>Discrete mathematics</string>
+      </void>
+      <void method="add">
+       <object class="javax.swing.tree.DefaultMutableTreeNode">
+        <void property="userObject">
+         <string>Application of discrete mathematics</string>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="javax.swing.tree.DefaultMutableTreeNode">
+        <void property="userObject">
+         <string>Discrete analysis</string>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="javax.swing.tree.DefaultMutableTreeNode">
+      <void property="userObject">
+       <string>Graph theory</string>
+      </void>
+      <void method="add">
+       <object class="javax.swing.tree.DefaultMutableTreeNode">
+        <void property="userObject">
+         <string>Graph theory in practice</string>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="javax.swing.tree.DefaultMutableTreeNode">
+      <void property="userObject">
+       <string>Linear Algebra</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="javax.swing.tree.DefaultMutableTreeNode">
+    <void property="userObject">
+     <string>Inspirational</string>
+    </void>
+    <void method="add">
+     <object class="javax.swing.tree.DefaultMutableTreeNode">
+      <void property="userObject">
+       <string>Surely you&apos;re joking mr. Feynmann</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="javax.swing.tree.DefaultMutableTreeNode">
+      <void property="userObject">
+       <string>In the mind of Albert Einstein</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="javax.swing.tree.DefaultMutableTreeNode">
+      <void property="userObject">
+       <string>Unfuck yourself</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

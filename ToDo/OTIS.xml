@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <object class="be.jrutten.ideatesting.TestObject">
+  <void property="crs">
+   <array class="java.lang.String" length="3">
+    <void index="0">
+     <string>EIS</string>
+    </void>
+    <void index="1">
+     <string>DEX</string>
+    </void>
+    <void index="2">
+     <string>DAO</string>
+    </void>
+   </array>
+  </void>
+  <void property="valName">
+   <string>OTIS</string>
+  </void>
+  <void property="value">
+   <int>400</int>
+  </void>
+ </object>
+</java>

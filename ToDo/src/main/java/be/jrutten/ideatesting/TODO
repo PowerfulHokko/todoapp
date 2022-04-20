@@ -1,0 +1,40 @@
+Note:
+I should not put list logic inside the model. I need to put it into seperate classes and methods.
+
+Move update logic to seperate function?
+Need a general controller for the updates on all fields
+
+
+Load items logic still needs to be added.
++ where to add DONE button? :) 
+    + If: done, add date when it was done automatically
++ ability to add comments?
++ where and how to save done items? Implement a low level database? -> save locally in xml, on database with employee_id
+
+
+Build tree with MutableTreeNode class; save tree using XMLEncorder (java.beans package)
+-> item saved and loaded succesfully (see ideatesting package)
+FIXED userObject (bean constructor should be public), this creates a weird view, save it in a seperate file?
+USE BEANS BECAUSE OF SERIALIZATION!
+
+Where and how to manage global items? ie: categories, persons, calender, etc...
+
+
+I should give it the ability to spread across multiple devices working either on a blockchain or
+peer-to-peer. In both cases the items should also implement certificate checking and 
+should be encoded. 
+I could put the views and chain-updates in seperate threads. Also add messages? :) 
+
+If I then make it into a desktop app AND mobile app it could be easily used for companies to 
+communicate todo's between employees, but what other functionalities should be added then?
+DON'T MAKE IT TOO COMPLEX... I want to keep it opensource/donation based.
+
+
+
+
+
+!!!! ListEditor reloads the entire list each time. This isn't so fantastic for performance.
+
+
+
+

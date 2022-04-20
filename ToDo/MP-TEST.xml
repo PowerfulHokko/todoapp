@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <int>101</int>
+   <object class="be.jrutten.ideatesting.TestObject">
+    <void property="valName">
+     <string>AAAA</string>
+    </void>
+    <void property="value">
+     <int>101</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <int>202</int>
+   <object class="be.jrutten.ideatesting.TestObject">
+    <void property="valName">
+     <string>BBBB</string>
+    </void>
+    <void property="value">
+     <int>202</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <int>303</int>
+   <object class="be.jrutten.ideatesting.TestObject">
+    <void property="valName">
+     <string>CCCC</string>
+    </void>
+    <void property="value">
+     <int>303</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
